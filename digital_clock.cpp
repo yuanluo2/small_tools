@@ -2,7 +2,7 @@
  * @date 2024.11.05
  * @author yuanluo2
  * @brief a digital clock written in C++, with wxWidgets 3.2
- * @details try to compile with:
+ * @details program based on at least c++11, try to compile with:
  *          g++ digital_clock.cpp `wx-config --libs --cxxflags` -O3 -o digital_clock
  */
 #include <wx/wx.h>
